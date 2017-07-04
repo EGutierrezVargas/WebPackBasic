@@ -1,0 +1,2 @@
+# WebPackBasic
+WebPack Basic Configuration
